@@ -8,5 +8,6 @@ int main(void) {
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
   cout << "Changes have been further made" << endl;
+  cout << "More changes" << endl;
   return 0;
 }
