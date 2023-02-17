@@ -11,7 +11,7 @@ pipeline {
 		}
 		stage('Test') {
 			steps {
-				sh './pes1ug20cs111_task5'
+				sh './pipeline/pes1ug20cs111_task5'
 				echo 'Test Stage Successful.'
 			}
 		}
